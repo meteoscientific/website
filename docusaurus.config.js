@@ -15,7 +15,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  trailingSlash: false, // This avoids unnecessary trailing slashes in URLs
+  trailingSlash: false, 
 
   i18n: {
     defaultLocale: 'en',
@@ -65,7 +65,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutorials',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           { to: '/faq', label: 'FAQ', position: 'left' }, 
@@ -85,25 +85,29 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Tutorials',
                 to: '/docs/intro',
               },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@meteoscientific',
+              },  
             ],
           },
           {
             title: 'Community',
             items: [
-              {
-                label: 'YouTube',
-                href: 'https://www.youtube.com/@meteoscientific',
-              },
-              {
+                            {
                 label: 'Discord',
                 href: 'https://discord.gg/4fR5QAq6Vc',
               },
               {
                 label: 'Twitter',
                 href: 'https://x.com/meteoscientific',
+              },
+              {
+                label: 'Donate',
+                href: '/donate',
               },
             ],
           },
