@@ -1,0 +1,114 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+# end original tags, start new ones
+
+weather:
+  label: Weather
+  description: Posts related to weather patterns, forecasting, and meteorological conditions.
+
+air pollution:
+  label: Air Pollution
+  description: Detailed discussions on pollutants in the air, their sources, and mitigation strategies.
+
+wind:
+  label: Wind
+  description: Articles focused on wind patterns, their measurement, and their impact on weather and climate.
+
+micrometeorology:
+  label: Micrometeorology
+  description: Specialized studies on small-scale atmospheric phenomena, including boundary layers and microclimates.
+
+particulates:
+  label: Particulates
+  description: Discussions on particulate matter (PM), including sources, measurement, and impacts on air quality.
+
+sensor density:
+  label: Sensor Density
+  description: Insights into the importance and optimization of sensor networks for meteorological data collection.
+
+agriculture:
+  label: Agriculture
+  description: The intersection of meteorology and agriculture, including impacts on crop growth and farm management.
+
+soil sensors:
+  label: Soil Sensors
+  description: Articles about soil moisture and temperature sensors, their deployment, and their significance in agriculture and environmental monitoring.
+
+temperature sensors:
+  label: Temperature Sensors
+  description: Focused on sensors that measure atmospheric and soil temperature, including their technology and applications.
+
+microcmeteorological concepts:
+  label: Micrometeorological Concepts
+  description: Theoretical and practical concepts in micrometeorology, including fluxes and energy balance.
+
+environmental science:
+  label: Environmental Science
+  description: Broader environmental science topics, including the study of ecosystems, pollution, and climate change.
+
+valley winds:
+  label: Valley Winds
+  description: Studies and discussions on wind patterns specific to valleys, including their formation and effects.
+
+weather sounding:
+  label: Weather Sounding
+  description: Articles on upper-air observations and soundings, including balloon launches and data interpretation.
+
+stability:
+  label: Atmospheric Stability
+  description: Concepts related to atmospheric stability and its impact on weather, including inversions and turbulence.
+
+welcome:
+  label: Welcome
+  description: Posts intended to welcome and introduce readers to the blog or specific sections of the site.
+
+pinned:
+  label: Pinned
+  description: Posts that are important and should remain pinned at the top of the blog list.
+
+sensors:
+  label: Sensors
+  description: Focus on the technology and application of various meteorological sensors, including deployment strategies.
+
+soil temperature:
+  label: Soil Temperature
+  description: Specific focus on the measurement and significance of soil temperature in environmental monitoring.
+
+atmospheric:
+  label: Atmospheric
+  description: General topics related to the atmosphere, including weather processes and atmospheric science.
+
+vernal pools:
+  label: Vernal Pools
+  description: Ephemeral pools formed usually during a brief rainy season and host to unique lifeforms.
+
+microclimates:
+  label: Microclimates
+  description: Small areas that don't always match up to macro conditions.
+
+micrometeorological concepts:
+  label: Micro Meteorological Concepts
+  description: The basics of how weather works at the human-sized level; what we can see, feel, experience with our own senses.
+
+applied micrometeorology:
+  label: Applied Micrometeorology
+  description: It's rad in the books, but how do you actually use it?
+

@@ -1,0 +1,23 @@
+metsci:
+  name: MeteoScientific
+  title: Helium Sensor Suzerain
+  url: https://github.com/meteoscientific/
+  image_url: /img/metsci_logo.svg
+  page: true
+  socials:
+    x: meteoscientific
+    github: https://github.com/meteoscientific/
+    newsletter: https://www.meteoscientific.com/
+
+nik:
+  name: Nik Hawks
+  title: Hazard to the delicate
+  url: https://gristleking.com/
+  image_url: /img/Nik_Hawks_profile_pic.jpeg
+  page: true
+  socials:
+    x: thegristleking
+    linkedin: https://www.linkedin.com/in/nikhawks/
+    youtube: https://www.youtube.com/@thegristleking
+   
+
