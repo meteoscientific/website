@@ -72,7 +72,7 @@ const config = {
           { to: '/about', label: 'About', position: 'left' }, 
           { to: '/pricing', label: 'Pricing', position: 'left' }, 
           {
-            href: 'https://github.com/meteoscientific/website', // Updated URL
+            href: 'https://github.com/meteoscientific/website', 
             label: 'GitHub',
             position: 'right',
           },
@@ -108,15 +108,15 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Owned By',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'X',
+                to: 'https://x.com/thegristleking',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/meteoscientific/website', // Updated URL
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/nikhawks/', 
               },
             ],
           },

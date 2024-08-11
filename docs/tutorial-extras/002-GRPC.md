@@ -182,14 +182,3 @@ With your tenant account, you’ll be limited to managing and accessing the reso
 ## Conclusion
 
 This guide has walked you through the basic setup of using gRPC with ChirpStack on the `console.meteoscientific.com` server using a tenant account. While your access might be limited compared to an administrative user, you can still interact programmatically with your tenant’s resources. Happy coding!
-
-```
-
-### Key Adjustments for Tenant Users:
-
-1. **API Key Generation**: Focus on generating API keys within the tenant account, as administrative access to the server is not available.
-2. **Permissions and Scope**: Make users aware that their access is limited to the resources within their tenant.
-3. **No Server-Side Modifications**: Users cannot modify the server or access logs, so troubleshooting is limited to API access and tenant-specific issues.
-4. **Usage Scenarios**: Examples and instructions should emphasize operations they can perform within the tenant's scope, such as managing applications, devices, and gateways linked to their tenant.
-
-This guide should help users with tenant-only access to effectively interact with the ChirpStack server using gRPC.
