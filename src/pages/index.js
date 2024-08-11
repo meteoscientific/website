@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://www.youtube.com/@meteoscientific">
-            MeteoScientific YouTube Course 🎦
+            MetSci YouTube Course 🎦
           </Link>
         </div>
       </div>

@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MeteoScientific',
+  title: 'MetSci',
   tagline: 'Integrating Sensors Into Your World',
   favicon: 'img/metsci_favicon.ico',
   url: 'https://meteoscientific.github.io', 
