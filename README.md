@@ -1,6 +1,6 @@
 # MeteoScientific Website
 
-Welcome to the official repository for the MeteoScientific website, built using [Docusaurus](https://docusaurus.io/). This site provides documentation and guides for using the [MeteoScientific Chirpstack Console](https://console.meteoscientific.com/front/) run by Disk91.
+Welcome to the official repository for the MeteoScientific website, built using [Docusaurus](https://docusaurus.io/). This site provides documentation and guides for using the [MeteoScientific Chirpstack Console](https://console.meteoscientific.com/front/).
 
 ## Overview
 
