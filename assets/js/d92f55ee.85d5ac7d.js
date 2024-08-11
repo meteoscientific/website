@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeteoscientific=self.webpackChunkmeteoscientific||[]).push([[5606],{6683:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/website/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":16,"previousPage":"/website/blog","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
