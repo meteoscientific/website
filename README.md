@@ -88,13 +88,4 @@ If you have any questions or need support, feel free to [open an issue](https://
 
 ```
 
-### Key Sections of the README:
 
-1. **Project Overview**: A brief description of the project and its purpose.
-2. **Getting Started**: Instructions on how to set up the project locally, including prerequisites, installation, and running the development server.
-3. **Contributing**: Guidelines for how others can contribute to the project, including creating branches, making changes, and submitting pull requests.
-4. **Deployment**: Instructions for deploying the site to GitHub Pages.
-5. **License**: Information on the project's license.
-6. **Contact**: A section for issues or support inquiries.
-
-You can customize this template further depending on the specific needs of your project. This README will help ensure that anyone interested in contributing or learning about the project has the information they need.
