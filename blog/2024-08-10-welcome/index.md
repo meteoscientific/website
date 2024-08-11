@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Read This First
-authors: [metsci, nik]
+authors: [nik]
 tags: ['welcome', 'pinned']
 permalink: /welcome
 pinned: true
