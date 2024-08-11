@@ -112,3 +112,28 @@ applied micrometeorology:
   label: Applied Micrometeorology
   description: It's rad in the books, but how do you actually use it?
 
+LoRaWAN:
+  label: LoRaWAN
+  description: Long Range Wide Area Network (LoRaWAN) is a type of wireless telecommunication network designed for long-range, low-power communication among connected devices and sensors.
+
+water measurement:
+  label: Water Measurement
+  description: Posts related to methods and tools used to measure water levels, flow, and quality in various environments.
+
+electrician:
+  label: Electrician
+  description: Articles focused on electricians, their work in electrical wiring, and the installation and maintenance of electrical systems.
+
+trades:
+  label: Trades
+  description: Discussions on various skilled trades, including construction, electrical, plumbing, and related industries.
+
+framing:
+  label: Framing
+  description: Posts related to the process of building the structural framework of buildings, including walls, floors, and roofs.
+
+plumbing:
+  label: Plumbing
+  description: Articles covering the installation and maintenance of water, sewage, and drainage systems in buildings.
+
+

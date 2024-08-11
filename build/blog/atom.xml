@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.meteoscientific.com/blog</id>
+    <id>https://meteoscientific.github.io/blog</id>
     <title>MeteoScientific Blog</title>
     <updated>2024-08-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.meteoscientific.com/blog"/>
+    <link rel="alternate" href="https://meteoscientific.github.io/blog"/>
     <subtitle>MeteoScientific Blog</subtitle>
-    <icon>https://www.meteoscientific.com/img/metsci_favicon.ico</icon>
+    <icon>https://meteoscientific.github.io/img/metsci_favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Read This First]]></title>
-        <id>https://www.meteoscientific.com/blog/welcome</id>
-        <link href="https://www.meteoscientific.com/blog/welcome"/>
+        <id>https://meteoscientific.github.io/blog/welcome</id>
+        <link href="https://meteoscientific.github.io/blog/welcome"/>
         <updated>2024-08-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[LoRaWAN sensors on Helium can be used for an awful lot of things, and in this blog we use AI (plus Nik at MetSci) to write about exploring some of the possible use cases.]]></summary>
         <content type="html"><![CDATA[<p>LoRaWAN sensors on <a href="https://www.helium.com/" target="_blank" rel="noopener noreferrer">Helium</a> can be used for an awful lot of things, and in this blog we use AI (plus Nik at MetSci) to write about exploring some of the possible use cases.</p>
 <p>If this is your first time at the MetSci (short for MeteoScientific) site and you just want to try using things and muddling through, head over to the <a href="https://console.meteoscientific.com/front/login" target="_blank" rel="noopener noreferrer">Console</a>, sign up for an account and get going.</p>
 <p>Oh, you actually want to read the blog, and you'd like to know a little more?  Cool!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="author-stuff">Author Stuff<a href="https://www.meteoscientific.com/blog/welcome#author-stuff" class="hash-link" aria-label="Direct link to Author Stuff" title="Direct link to Author Stuff">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="author-stuff">Author Stuff<a href="https://meteoscientific.github.io/blog/welcome#author-stuff" class="hash-link" aria-label="Direct link to Author Stuff" title="Direct link to Author Stuff">​</a></h2>
 <p>If you see that an author is just MetSci, it's a straight ChatGPT-written piece.  If the author is <strong>also</strong> Nik, you know there was some human redacting.  If it's <strong>only</strong> Nik, it's a fully human-written piece.</p>
 <p>You should consider this blog a general exploration of using the Helium LoRaWAN, not an exhaustive resource for every possible application.  Go get 'em, tigers!</p>]]></content>
         <author>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Maximizing Efficiency and Safety with LoRaWAN - A New Edge for Commercial Building Framing]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/12/01/Using_LoRaWAN_For_Commercial_Building_Framing</id>
-        <link href="https://www.meteoscientific.com/blog/2023/12/01/Using_LoRaWAN_For_Commercial_Building_Framing"/>
+        <id>https://meteoscientific.github.io/blog/2023/12/01/Using_LoRaWAN_For_Commercial_Building_Framing</id>
+        <link href="https://meteoscientific.github.io/blog/2023/12/01/Using_LoRaWAN_For_Commercial_Building_Framing"/>
         <updated>2023-12-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[As the foreman in charge of framing jobs on commercial buildings, you’re tasked with ensuring efficiency, profitability, and safety. These responsibilities can feel burdensome, but integrating LoRaWAN technology into your operations could be the game-changing solution you need. This low-power, long-range wireless protocol is reshaping the construction industry, providing ways to cut costs, boost revenue, and enhance safety measures.]]></summary>
         <content type="html"><![CDATA[<p>As the foreman in charge of framing jobs on commercial buildings, you’re tasked with ensuring efficiency, profitability, and safety. These responsibilities can feel burdensome, but integrating LoRaWAN technology into your operations could be the game-changing solution you need. This low-power, long-range wireless protocol is reshaping the construction industry, providing ways to cut costs, boost revenue, and enhance safety measures.</p>
@@ -46,14 +46,14 @@
             <name>MeteoScientific</name>
             <uri>https://github.com/meteoscientific/</uri>
         </author>
-        <category label="trades" term="trades"/>
-        <category label="framing" term="framing"/>
+        <category label="Trades" term="Trades"/>
+        <category label="Framing" term="Framing"/>
         <category label="Sensors" term="Sensors"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Integrating LoRaWAN Technology - A Transition Strategy for Seasoned Electricians]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/11/15/LoRaWAN_for_Electricians</id>
-        <link href="https://www.meteoscientific.com/blog/2023/11/15/LoRaWAN_for_Electricians"/>
+        <id>https://meteoscientific.github.io/blog/2023/11/15/LoRaWAN_for_Electricians</id>
+        <link href="https://meteoscientific.github.io/blog/2023/11/15/LoRaWAN_for_Electricians"/>
         <updated>2023-11-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Navigating the increasingly digitized world of the trades can seem daunting, especially for established professionals considering retirement. It’s not uncommon for seasoned electricians to view the influx of new technology, such as the LoRaWAN protocol, as a disruptor rather than an opportunity. However, leveraging LoRaWAN could be a compelling selling point when transitioning your business to a younger generation, maximizing its value and ensuring its longevity in the hands of a new owner.]]></summary>
         <content type="html"><![CDATA[<p>Navigating the increasingly digitized world of the trades can seem daunting, especially for established professionals considering retirement. It’s not uncommon for seasoned electricians to view the influx of new technology, such as the LoRaWAN protocol, as a disruptor rather than an opportunity. However, leveraging LoRaWAN could be a compelling selling point when transitioning your business to a younger generation, maximizing its value and ensuring its longevity in the hands of a new owner.</p>
@@ -66,14 +66,14 @@
             <name>MeteoScientific</name>
             <uri>https://github.com/meteoscientific/</uri>
         </author>
-        <category label="electrician" term="electrician"/>
-        <category label="trades" term="trades"/>
+        <category label="Electrician" term="Electrician"/>
+        <category label="Trades" term="Trades"/>
         <category label="Sensors" term="Sensors"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Enhancing Revenue with LoRaWAN - An Innovative Approach for Plumbing Businesses]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/11/01/Enhancing_Revenue_With_LoRaWAN</id>
-        <link href="https://www.meteoscientific.com/blog/2023/11/01/Enhancing_Revenue_With_LoRaWAN"/>
+        <id>https://meteoscientific.github.io/blog/2023/11/01/Enhancing_Revenue_With_LoRaWAN</id>
+        <link href="https://meteoscientific.github.io/blog/2023/11/01/Enhancing_Revenue_With_LoRaWAN"/>
         <updated>2023-11-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[In an ever-evolving technological landscape, businesses must adapt to stay ahead. One such technology that is revolutionizing how industries operate is LoRaWAN, a long-range, low-power wide-area networking (LPWAN) protocol. It’s helping various sectors improve efficiency and reduce costs, and the plumbing industry is no exception. With the potential to transform how plumbers work, LoRaWAN can facilitate faster service, better customer satisfaction, and ultimately, an increase in revenue.]]></summary>
         <content type="html"><![CDATA[<p>In an ever-evolving technological landscape, businesses must adapt to stay ahead. One such technology that is revolutionizing how industries operate is LoRaWAN, a long-range, low-power wide-area networking (LPWAN) protocol. It’s helping various sectors improve efficiency and reduce costs, and the plumbing industry is no exception. With the potential to transform how plumbers work, LoRaWAN can facilitate faster service, better customer satisfaction, and ultimately, an increase in revenue.</p>
@@ -88,14 +88,14 @@
             <uri>https://github.com/meteoscientific/</uri>
         </author>
         <category label="Sensors" term="Sensors"/>
-        <category label="plumbing" term="plumbing"/>
-        <category label="trades" term="trades"/>
+        <category label="Plumbing" term="Plumbing"/>
+        <category label="Trades" term="Trades"/>
         <category label="LoRaWAN" term="LoRaWAN"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Using LoRaWAN to Monitor Water Levels in Vernal Pools]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/10/15/Using_LoRaWAN_Monitor_Water_Levels_in_Vernal_Pools</id>
-        <link href="https://www.meteoscientific.com/blog/2023/10/15/Using_LoRaWAN_Monitor_Water_Levels_in_Vernal_Pools"/>
+        <id>https://meteoscientific.github.io/blog/2023/10/15/Using_LoRaWAN_Monitor_Water_Levels_in_Vernal_Pools</id>
+        <link href="https://meteoscientific.github.io/blog/2023/10/15/Using_LoRaWAN_Monitor_Water_Levels_in_Vernal_Pools"/>
         <updated>2023-10-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Vernal pools are unique bodies of water that are of great ecological importance, but are often difficult to monitor and study due to their remote locations. LoRaWAN technology, a low-power, wide-area network communication system, presents a valuable solution to this challenge.]]></summary>
         <content type="html"><![CDATA[<p>Vernal pools are unique bodies of water that are of great ecological importance, but are often difficult to monitor and study due to their remote locations. LoRaWAN technology, a low-power, wide-area network communication system, presents a valuable solution to this challenge.</p>
@@ -112,12 +112,12 @@
         <category label="Environmental Science" term="Environmental Science"/>
         <category label="LoRaWAN" term="LoRaWAN"/>
         <category label="Vernal Pools" term="Vernal Pools"/>
-        <category label="water measurement" term="water measurement"/>
+        <category label="Water Measurement" term="Water Measurement"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Measurements in Micrometeorology]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/10/02/Measurements-in-Micrometeorology</id>
-        <link href="https://www.meteoscientific.com/blog/2023/10/02/Measurements-in-Micrometeorology"/>
+        <id>https://meteoscientific.github.io/blog/2023/10/02/Measurements-in-Micrometeorology</id>
+        <link href="https://meteoscientific.github.io/blog/2023/10/02/Measurements-in-Micrometeorology"/>
         <updated>2023-10-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[One of the most important aspects of micrometeorology is the use of measurements to understand and predict how these processes will change over time.  Here are the 8 measurements you'll need to know.]]></summary>
         <content type="html"><![CDATA[<p>One of the most important aspects of micrometeorology is the use of measurements to understand and predict how these processes will change over time.  Here are the 8 measurements you'll need to know. </p>
@@ -141,8 +141,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Why You Want A High Meteorological Sensor Density]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/09/15/High-Meteorological-Sensor-Density</id>
-        <link href="https://www.meteoscientific.com/blog/2023/09/15/High-Meteorological-Sensor-Density"/>
+        <id>https://meteoscientific.github.io/blog/2023/09/15/High-Meteorological-Sensor-Density</id>
+        <link href="https://meteoscientific.github.io/blog/2023/09/15/High-Meteorological-Sensor-Density"/>
         <updated>2023-09-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[As a farmer or land owner, it is important to have accurate and reliable information about the weather and climate conditions on your property. This can help you to make informed decisions about things like when to plant and harvest crops, how to manage your land and resources, and how to prepare for extreme weather events.]]></summary>
         <content type="html"><![CDATA[<p>As a farmer or land owner, it is important to have accurate and reliable information about the weather and climate conditions on your property. This can help you to make informed decisions about things like when to plant and harvest crops, how to manage your land and resources, and how to prepare for extreme weather events.</p>
@@ -163,8 +163,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Soil, Air, and Atmospheric Stability]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/09/01/Soil-Air-Atmospheric-Stability</id>
-        <link href="https://www.meteoscientific.com/blog/2023/09/01/Soil-Air-Atmospheric-Stability"/>
+        <id>https://meteoscientific.github.io/blog/2023/09/01/Soil-Air-Atmospheric-Stability</id>
+        <link href="https://meteoscientific.github.io/blog/2023/09/01/Soil-Air-Atmospheric-Stability"/>
         <updated>2023-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The delta between soil and air temperatures can give us clues about the stability of the atmosphere. When the soil is much warmer than the air, it can indicate that the air is likely to rise quickly. This rising air is known as convection, and it can lead to the formation of clouds and storms. On the other hand, if the soil is much cooler than the air, it can indicate that the air will sink, which can lead to calm and stable weather.]]></summary>
         <content type="html"><![CDATA[<p>The delta between soil and air temperatures can give us clues about the stability of the atmosphere. When the soil is much warmer than the air, it can indicate that the air is likely to rise quickly. This rising air is known as convection, and it can lead to the formation of clouds and storms. On the other hand, if the soil is much cooler than the air, it can indicate that the air will sink, which can lead to calm and stable weather.</p>
@@ -185,8 +185,8 @@ Unstable atmosphere: <a href="https://www.britannica.com/science/unstable-atmosp
     </entry>
     <entry>
         <title type="html"><![CDATA[All About Valley Microclimates]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/08/15/</id>
-        <link href="https://www.meteoscientific.com/blog/2023/08/15/"/>
+        <id>https://meteoscientific.github.io/blog/2023/08/15</id>
+        <link href="https://meteoscientific.github.io/blog/2023/08/15"/>
         <updated>2023-08-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A microclimate is the climate of a small, specific area, such as a valley. The microclimate of a valley can be different from the climate of the surrounding region, due to the way that the valley’s shape and other factors influence the movement of air and the amount of sunlight it receives.]]></summary>
         <content type="html"><![CDATA[<p>A microclimate is the climate of a small, specific area, such as a valley. The microclimate of a valley can be different from the climate of the surrounding region, due to the way that the valley’s shape and other factors influence the movement of air and the amount of sunlight it receives.</p>
@@ -205,8 +205,8 @@ Unstable atmosphere: <a href="https://www.britannica.com/science/unstable-atmosp
     </entry>
     <entry>
         <title type="html"><![CDATA[What Can A Daily Weather Sounding Tell Us?]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/08/01/Weather_Soundings</id>
-        <link href="https://www.meteoscientific.com/blog/2023/08/01/Weather_Soundings"/>
+        <id>https://meteoscientific.github.io/blog/2023/08/01/Weather_Soundings</id>
+        <link href="https://meteoscientific.github.io/blog/2023/08/01/Weather_Soundings"/>
         <updated>2023-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A daily weather sounding is a measurement of the temperature, humidity, and wind speed in the atmosphere at different levels above the Earth’s surface. It is used to help predict the weather and to understand the processes that influence it.]]></summary>
         <content type="html"><![CDATA[<p>A daily weather sounding is a measurement of the temperature, humidity, and wind speed in the atmosphere at different levels above the Earth’s surface. It is used to help predict the weather and to understand the processes that influence it.</p>
@@ -225,8 +225,8 @@ Unstable atmosphere: <a href="https://www.britannica.com/science/unstable-atmosp
     </entry>
     <entry>
         <title type="html"><![CDATA[Applications of Micrometeorology]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/07/15/Applications-of-Micrometeorology</id>
-        <link href="https://www.meteoscientific.com/blog/2023/07/15/Applications-of-Micrometeorology"/>
+        <id>https://meteoscientific.github.io/blog/2023/07/15/Applications-of-Micrometeorology</id>
+        <link href="https://meteoscientific.github.io/blog/2023/07/15/Applications-of-Micrometeorology"/>
         <updated>2023-07-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Micrometeorology is an important field that helps us to understand how small-scale weather and climate processes will affect things like agriculture, forestry, and the natural environment. Let’s take a closer look at some of the various applications of micrometeorology in different fields.]]></summary>
         <content type="html"><![CDATA[<p>Micrometeorology is an important field that helps us to understand how small-scale weather and climate processes will affect things like agriculture, forestry, and the natural environment. Let’s take a closer look at some of the various applications of micrometeorology in different fields.</p>
@@ -244,8 +244,8 @@ Unstable atmosphere: <a href="https://www.britannica.com/science/unstable-atmosp
     </entry>
     <entry>
         <title type="html"><![CDATA[Understanding PM 2.5 and PM 10 Levels]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/07/01/PM_Levels</id>
-        <link href="https://www.meteoscientific.com/blog/2023/07/01/PM_Levels"/>
+        <id>https://meteoscientific.github.io/blog/2023/07/01/PM_Levels</id>
+        <link href="https://meteoscientific.github.io/blog/2023/07/01/PM_Levels"/>
         <updated>2023-07-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[PM 2.5 and PM 10 are two types of air pollution that can have harmful effects on human health. PM stands for “particulate matter,” and the numbers refer to the size of the particles in micrometers.]]></summary>
         <content type="html"><![CDATA[<p>PM 2.5 and PM 10 are two types of air pollution that can have harmful effects on human health. PM stands for “particulate matter,” and the numbers refer to the size of the particles in micrometers.</p>
@@ -263,8 +263,8 @@ Unstable atmosphere: <a href="https://www.britannica.com/science/unstable-atmosp
     </entry>
     <entry>
         <title type="html"><![CDATA[How Wind Interacts With Air Pollution Readings]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/06/15/Wind-Air-Pollution</id>
-        <link href="https://www.meteoscientific.com/blog/2023/06/15/Wind-Air-Pollution"/>
+        <id>https://meteoscientific.github.io/blog/2023/06/15/Wind-Air-Pollution</id>
+        <link href="https://meteoscientific.github.io/blog/2023/06/15/Wind-Air-Pollution"/>
         <updated>2023-06-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Anemometers are instruments that measure the speed of the wind. They are often used in weather stations to help predict the weather and to study the Earth’s atmosphere.]]></summary>
         <content type="html"><![CDATA[<p>Anemometers are instruments that measure the speed of the wind. They are often used in weather stations to help predict the weather and to study the Earth’s atmosphere.</p>
@@ -281,8 +281,8 @@ Unstable atmosphere: <a href="https://www.britannica.com/science/unstable-atmosp
     </entry>
     <entry>
         <title type="html"><![CDATA[Origins of Micrometeorology]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/06/01/Micrometeorology</id>
-        <link href="https://www.meteoscientific.com/blog/2023/06/01/Micrometeorology"/>
+        <id>https://meteoscientific.github.io/blog/2023/06/01/Micrometeorology</id>
+        <link href="https://meteoscientific.github.io/blog/2023/06/01/Micrometeorology"/>
         <updated>2023-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Micrometeorology is the study of the movement of air and other substances near the surface of the Earth. It helps us to understand how the Earth’s surface and atmosphere interact with each other.]]></summary>
         <content type="html"><![CDATA[<p>Micrometeorology is the study of the movement of air and other substances near the surface of the Earth. It helps us to understand how the Earth’s surface and atmosphere interact with each other.</p>
@@ -299,8 +299,8 @@ Unstable atmosphere: <a href="https://www.britannica.com/science/unstable-atmosp
     </entry>
     <entry>
         <title type="html"><![CDATA[How The Planetary Boundary Layer Interacts With The Land]]></title>
-        <id>https://www.meteoscientific.com/blog/2023/05/15/Planetary_Boundary</id>
-        <link href="https://www.meteoscientific.com/blog/2023/05/15/Planetary_Boundary"/>
+        <id>https://meteoscientific.github.io/blog/2023/05/15/Planetary_Boundary</id>
+        <link href="https://meteoscientific.github.io/blog/2023/05/15/Planetary_Boundary"/>
         <updated>2023-05-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The planetary boundary layer is a part of the Earth’s atmosphere that is close to the surface of the Earth. It is called the “boundary” layer because it is a boundary between the air above it and the Earth’s surface.]]></summary>
         <content type="html"><![CDATA[<p>The planetary boundary layer is a part of the Earth’s atmosphere that is close to the surface of the Earth. It is called the “boundary” layer because it is a boundary between the air above it and the Earth’s surface.</p>
@@ -317,8 +317,8 @@ Unstable atmosphere: <a href="https://www.britannica.com/science/unstable-atmosp
     </entry>
     <entry>
         <title type="html"><![CDATA[Using LoRaWAN to Monitor The Weather]]></title>
-        <id>https://www.meteoscientific.com/blog/lorawan-weather</id>
-        <link href="https://www.meteoscientific.com/blog/lorawan-weather"/>
+        <id>https://meteoscientific.github.io/blog/lorawan-weather</id>
+        <link href="https://meteoscientific.github.io/blog/lorawan-weather"/>
         <updated>2023-05-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[LoRaWAN is a type of wireless technology that is used to transmit small amounts of data over long distances. It is often used in sensors that measure things like temperature, humidity, and wind speed.]]></summary>
         <content type="html"><![CDATA[<p>LoRaWAN is a type of wireless technology that is used to transmit small amounts of data over long distances. It is often used in sensors that measure things like temperature, humidity, and wind speed.</p>

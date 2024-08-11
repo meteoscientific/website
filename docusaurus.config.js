@@ -1,8 +1,4 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
@@ -11,20 +7,15 @@ const config = {
   title: 'MeteoScientific',
   tagline: 'Integrating Sensors Into Your World',
   favicon: 'img/metsci_favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://www.meteoscientific.com', // Updated to your domain
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/', // Updated to the root
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'meteoscientific', // Updated to your GitHub org/user name
-  projectName: 'website', // Updated to your repo name
+  url: 'https://meteoscientific.github.io', 
+  baseUrl: '/', 
+  organizationName: 'meteoscientific',
+  projectName: 'website', 
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  trailingSlash: false, // This avoids unnecessary trailing slashes in URLs
 
   i18n: {
     defaultLocale: 'en',
@@ -78,8 +69,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           { to: '/faq', label: 'FAQ', position: 'left' }, 
-      { to: '/about', label: 'About', position: 'left' }, 
-      { to: '/pricing', label: 'Pricing', position: 'left' }, 
+          { to: '/about', label: 'About', position: 'left' }, 
+          { to: '/pricing', label: 'Pricing', position: 'left' }, 
           {
             href: 'https://github.com/meteoscientific/website', // Updated URL
             label: 'GitHub',
