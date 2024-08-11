@@ -85,7 +85,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or need support, feel free to [open an issue](https://github.com/your-github-username/meteoscientific-website/issues) or reach out via email.
-
-```
-
-
