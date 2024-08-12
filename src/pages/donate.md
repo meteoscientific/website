@@ -9,7 +9,7 @@ I really appreciate you wanting to support MetSci; it's a fun way for me to help
 ### Buy DC
 The easiest way to keep the lights on is to just buy DC via [your Console account](https://console.meteoscientific.com/). You'll get DC to use for your sensors and it helps pay the overhead around here.
 
-If you don't plan on ever using Console but you think this is rad, there are 2 other ways to donate/support MetSci.
+If you don't plan on ever using Console but you think this is rad, you could just throw DC straight into the OUI, which keeps the lights on longer. 
 
 ### Fund the OUI
 
