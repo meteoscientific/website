@@ -67,9 +67,6 @@ const config = {
             position: 'left',
             label: 'Tutorials',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          { to: '/faq', label: 'FAQ', position: 'left' }, 
-          { to: '/about', label: 'About', position: 'left' }, 
           { to: '/pricing', label: 'Pricing', position: 'left' }, 
           { to: 'https://console.meteoscientific.com/front/login', label: 'Console', position: 'left' },
           {
@@ -92,7 +89,24 @@ const config = {
               {
                 label: 'YouTube',
                 href: 'https://www.youtube.com/@meteoscientific',
+              },
+              {
+                label: 'Blog',
+                href: '/blog',
               },  
+            ],
+          },
+          {
+            title: 'Moar',
+            items: [
+              {
+                label: 'About',
+                to: '/about',
+              },
+              {
+                label: 'FAQ',
+                href: '/faq',
+              }, 
             ],
           },
           {
