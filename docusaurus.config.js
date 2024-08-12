@@ -71,6 +71,7 @@ const config = {
           { to: '/faq', label: 'FAQ', position: 'left' }, 
           { to: '/about', label: 'About', position: 'left' }, 
           { to: '/pricing', label: 'Pricing', position: 'left' }, 
+          { to: 'https://console.meteoscientific.com/front/login', label: 'Console', position: 'left' },
           {
             href: 'https://github.com/meteoscientific/website', 
             label: 'GitHub',
