@@ -20,10 +20,6 @@
 <p>If you see that an author is just MetSci, it's a straight ChatGPT-written piece.  If the author is <strong>also</strong> Nik, you know there was some human redacting.  If it's <strong>only</strong> Nik, it's a fully human-written piece.</p>
 <p>You should consider this blog a general exploration of using the Helium LoRaWAN, not an exhaustive resource for every possible application.  Go get 'em, tigers!</p>]]></content>
         <author>
-            <name>MeteoScientific</name>
-            <uri>https://github.com/meteoscientific/</uri>
-        </author>
-        <author>
             <name>Nik Hawks</name>
             <uri>https://gristleking.com/</uri>
         </author>
