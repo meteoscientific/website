@@ -76,6 +76,10 @@ const config = {
           },
         ],
       },
+      metadata: [
+        { name: 'og:image', content: '/img/metsci_social.png' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+      ],
       footer: {
         style: 'dark',
         links: [
