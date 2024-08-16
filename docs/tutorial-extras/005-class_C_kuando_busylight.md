@@ -16,7 +16,11 @@ This guide walks you through using Meteoscientific's API to control a Kuando Bus
 
 ## Overview
 
-Class C devices are ones that are always "listening" for commands.  You can trigger those commands directly in the MetSci Console to test, but if you want to use a class C device without logging into Console, try using an API, or Application Programming Interface.  Now you're getting fancy!
+Unlike the many Class A devices most of us are used to in Helium (trackers, temp checkers, soil moisture, etc) where they listen and only occasionally chirpm, Class C devices are ones that are always "listening" for commands.  That means they're usually plugged into the wall (or "into mains" if you want to sound hip) because they need more more power in order to constantly listen. 
+
+The upside is you can make 'em dance when you want to, instead of (as with Class A) waiting for them to pop up and transmit, then listen very briefly after the transmit window.
+
+You can trigger those "Dance NOW!" commands directly in the MetSci Console to test, but if you want to use a class C device without logging into Console, try using an API (Application Programming Interface).  Now you're getting fancy!
 
 Relax, we'll walk you through it.  
 
