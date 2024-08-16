@@ -100,7 +100,7 @@ Now you can use a Bash script to send a command to the Busylight using the Meteo
 #!/bin/bash
 
 # API endpoint
-URL="https://console.meteoscientific.com/api/devices/2020203736130202/queue"
+URL="https://console.meteoscientific.com/api/devices/[YOUR_DEV_EUI_HERE]/queue"
 
 # Authorization token (replace this with your actual token)
 AUTH_TOKEN="[Your MetSci API key here, without Bearer in front]"
