@@ -136,7 +136,9 @@ Click Submit to save the integration.
 # Step 5: Test the Integration
 If you can trigger the device (I couldn't on the weather station since it was deployed), fire off an uplink.  If you can't trigger it, just...wait for your device to send an uplink.
 
-Check your Google Sheet to see if the data has been appended to the next available row.
+Check your Google Sheet to see if the data has been appended to the next available row.  It should look like this:
+
+![Sheet correctly filling with data](./003-images/sheet%20looks%20like%20this.png)
 
 If the data appears correctly, your integration is successfully set up!
 
