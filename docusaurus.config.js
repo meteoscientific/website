@@ -53,7 +53,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/meteoscientific-social-card.jpg',
+      image: 'img/metsci_200x200.png',
       navbar: {
         title: 'MeteoScientific',
         logo: {
@@ -77,7 +77,7 @@ const config = {
         ],
       },
       metadata: [
-        { name: 'og:image', content: '/img/metsci_social.png' },
+        { name: 'og:image', content: '/img/meteoscientific-social-card_1200x630.png' },
         { name: 'twitter:card', content: 'summary_large_image' },
       ],
       footer: {
