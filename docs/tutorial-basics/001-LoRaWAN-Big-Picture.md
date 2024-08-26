@@ -32,4 +32,5 @@ The first two things I'd like you to do from here are:
 
 1. Open up a [Console Account with MeteoScientific](https://console.meteoscientific.com/front/login).  It's free to open and poke around, and if you want to test out some sensors $10 will go a long way, but more on that later.  
 
-Rock and roll!
+2. Rock and roll!
+
