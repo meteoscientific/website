@@ -1,0 +1,9 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"  # Location of your package.json
+    schedule:
+      interval: "daily"  # Frequency can be daily, weekly, or monthly
+    commit-message:
+      prefix: "deps"
+      include: "scope"
