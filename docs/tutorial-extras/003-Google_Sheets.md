@@ -131,6 +131,10 @@ In the Event Endpoint URL(s) field, paste the Web App URL you copied from Google
 
 Make sure the payload encoding is set to JSON.
 
+**Optional** I've heard that adding a header with `Content-Type` and then `application/json` will make it work.  Only try that if you need to.  It would look like this:
+
+![Optional additional header](./003-images/header_content_type_application_json.png)
+
 Click Submit to save the integration.
 
 # Step 5: Test the Integration
