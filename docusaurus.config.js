@@ -1,5 +1,8 @@
 // @ts-check
 
+// Load environment variables from .env file
+require('dotenv').config(); // This line loads the environment variables from your .env file
+
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -7,7 +10,7 @@ const config = {
   title: 'MetSci',
   tagline: 'Integrating Sensors Into Your World',
   favicon: 'img/metsci_favicon.ico',
-  url: 'https://meteoscientific.github.io', 
+  url: process.env.SITE_URL || 'https://meteoscientific.github.io', // Use environment variable if available
   baseUrl: '/', 
   organizationName: 'meteoscientific',
   projectName: 'website', 
@@ -29,7 +32,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/meteoscientific/website/tree/main/', // Updated URL
+          editUrl: 'https://github.com/meteoscientific/website/tree/main/', 
         },
         blog: {
           path: './blog', 
@@ -39,7 +42,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/meteoscientific/website/tree/main/', // Updated URL
+          editUrl: 'https://github.com/meteoscientific/website/tree/main/', 
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All Blog Posts',
         },
