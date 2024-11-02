@@ -13,7 +13,7 @@ If you don't plan on ever using Console but you think this is rad, you could jus
 
 ### Fund the OUI
 
-You can just buy DC online and delegate them to the MetSci **OUI** (Organizational Unit Identifier). You're basically adding DC so I don't have to keep the thing topped up.
+Buy DC online and delegate them to the MetSci **OUI** (Organizational Unit Identifier). You're basically adding DC so I don't have to keep the thing topped up.
 
 Here are the official instructions:
 [Delegate DC to An OUI](https://docs.helium.com/iot/run-an-lns/fund-an-oui)
