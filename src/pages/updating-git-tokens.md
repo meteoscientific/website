@@ -1,7 +1,7 @@
 
 # How to Update Your GitHub Personal Access Token (PAT)
 
-Follow these steps to update your GitHub Personal Access Token when it expires or needs regeneration.
+Follow these steps to update your GitHub Personal Access Token when it expires or needs regeneration.  Basically you're going to regenerate your token, make sure the permisisons are correct, then update the token in your .env file.
 
 ---
 
@@ -12,7 +12,7 @@ Follow these steps to update your GitHub Personal Access Token when it expires o
   - **Set Permissions**:
     - **Contents**: Read and write
     - **Metadata**: Read-only
-    - **Pages**: Read-only
+    - **Pages**: Read and write
   - **Set Organization Permissions**:
     - **Members**: Read-only
     - **Administration**: Read-only
@@ -28,8 +28,9 @@ Follow these steps to update your GitHub Personal Access Token when it expires o
 - **Go to VSCode and open the Meteoscientific folder**.
 - **Update the .env file**:
   ```bash
-  GIT_TOKEN=`your_new_github_pat`
+  GIT_TOKEN=`your_new_github_pat
   ```
+
   *(Obvi, replace`your_new_github_pat` with your actual token.)*
 
 ---
