@@ -1,3 +1,4 @@
+
 # How to Update Your GitHub Personal Access Token (PAT)
 
 Follow these steps to update your GitHub Personal Access Token when it expires or needs regeneration.
@@ -11,14 +12,62 @@ Follow these steps to update your GitHub Personal Access Token when it expires o
   - **Set Permissions**:
     - **Contents**: Read and write
     - **Metadata**: Read-only
-    - **Pages**: Read and write
+    - **Pages**: Read-only
+  - **Set Organization Permissions**:
+    - **Members**: Read-only
+    - **Administration**: Read-only
+    - **Webhooks**: Read and write
+    - **Secrets**: Read and write
+    - **Projects**: Read and write
   - **Set the Expiry Date**: Choose the maximum duration (365 days).
 - **Save the token** securely (e.g., in a password manager).
 
 ---
 
 ## 2. Update Your Local Environment
-- **Open your terminal**.
-- **Export the new PAT**:
+- **Go to VSCode and open the Meteoscientific folder**.
+- **Update the .env file**:
   ```bash
-  export GIT_TOKEN=your_new_github_pat
+  GIT_TOKEN=`your_new_github_pat`
+  ```
+  *(Obvi, replace`your_new_github_pat` with your actual token.)*
+
+---
+
+## 3. Verify the PAT
+- Use the following `curl` command to check if your token is working:
+  ```bash
+  curl -H "Authorization: token $GIT_TOKEN" https://api.github.com/user
+  ```
+- You should see your GitHub user information.
+
+---
+
+## 4. Deploy Your Changes
+1. **Build your site locally**:
+   ```bash
+   npm run build
+   ```
+2. **Serve locally to test**:
+   ```bash
+   npm run serve
+   ```
+3. **Commit and push changes**:
+   ```bash
+   git add .
+   git commit -m "Updated the PAT"
+   git push origin main
+   ```
+4. **Deploy the site**:
+   ```bash
+   GIT_USER=your_github_username GIT_TOKEN=$GIT_TOKEN npm run deploy
+   ```
+
+---
+
+## Troubleshooting
+- **Deployment errors**: Check if your PAT has the right permissions.
+- **Website not updating**: Clear browser and Cloudflare cache.
+
+---
+
